@@ -1,27 +1,15 @@
 # Igor:
-push (fácil)
+push 
 
-pop (fácil)
+pop 
 
-map (difícil)
+map 
 
-filter (difícil)
+filter 
 
-reverse (fácil)
+reverse 
 
-sort (difícil) 
-
-
-# Métodos feitos por mim
-
-- push 🍣
-- pop 🍫
-- map 💡
-- filter 🕵️
-- reverse 🔄
-- sort 🏆
-
-- Um exemplo prático usando emojis
+sort  
 
 
 
