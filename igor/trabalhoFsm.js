@@ -1,4 +1,4 @@
-// Função 1: Chegada dos amigos
+
 function chegadaDosAmigos() {
     let galera = ['👦', '👧'];
     galera.push('🧑');        

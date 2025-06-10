@@ -24,6 +24,4 @@ sort (difícil)
 - Um exemplo prático usando emojis
 
 
-## Como rodar
--> terminal : 
--> node trabalhoFsm.js
+
